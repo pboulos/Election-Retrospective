@@ -5,3 +5,17 @@ In 2015, there was a changing of the guard in Canadian politics. Stephen Harper,
 In this small retrospective, we'll examine the shift of consensus between the 2011 and 2015 Canadian federal elections. Along the way, we may discover certain interesting results and may make some unorthodox comparisons for the sake of political levity (if such a thing were possible?).
 
 The data that was used is all publicly available from official governmental sources and was processed for the sake of simplification and clarity. Data is rarely clean, political data (it seems) less so. It should be noted for the sake of early disclosure that this project does not have visualisations that are particularly colourblind-friendly.
+
+## Modules You'll Need to Clone 
+
+It's easiest to clone this if you have Python installed within an Anaconda environment (ideally conda-forge). However, should you wish to have an explicit list of modules that you would need, here it is:
+
+- pandas                    0.24.2 
+- geopandas                 0.4.1
+- matplotlib                3.0.3
+- seaborn                   0.9.0
+- scipy                     1.2.1
+
+It's possible that the notebook will function with versions lower than this, but for declarative clarity I opted to include the ones that the notebook was created on.
+
+In the unlikely event that any of these charts are used somewhere else, please get in touch with me first!
