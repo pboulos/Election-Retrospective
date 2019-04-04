@@ -22,4 +22,4 @@ In the unlikely event that any of these charts are used somewhere else, please g
 
 The file you'll want to open is: OntarioElections.ipynb
 
-Or, for a more aesthetic experience, [you could click here](https://nbviewer.jupyter.org/github/pboulos/Election-Retrospective/blob/master/TorontoElections.ipynb).
+Or, for a more aesthetic experience, [you could click here](https://nbviewer.jupyter.org/github/pboulos/Election-Retrospective/blob/master/OntarioElections.ipynb).
