@@ -19,3 +19,7 @@ It's easiest to clone this if you have Python installed within an Anaconda envir
 It's possible that the notebook will function with versions lower than this, but for declarative clarity I opted to include the ones that the notebook was created on.
 
 In the unlikely event that any of these charts are used somewhere else, please get in touch with me first!
+
+The file you'll want to open is: OntarioElections.ipynb
+
+Or, for a more aesthetic experience, [you could click here](https://nbviewer.jupyter.org/github/pboulos/Election-Retrospective/blob/master/TorontoElections.ipynb)
